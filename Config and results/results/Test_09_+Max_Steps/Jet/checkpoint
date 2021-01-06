@@ -1,0 +1,6 @@
+model_checkpoint_path: "Jet-10000002.ckpt"
+all_model_checkpoint_paths: "Jet-8499978.ckpt"
+all_model_checkpoint_paths: "Jet-8999965.ckpt"
+all_model_checkpoint_paths: "Jet-9499957.ckpt"
+all_model_checkpoint_paths: "Jet-9999874.ckpt"
+all_model_checkpoint_paths: "Jet-10000002.ckpt"

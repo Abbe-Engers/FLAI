@@ -1,0 +1,29 @@
+{
+    "Jet": {
+        "checkpoints": [
+            {
+                "steps": 9999968,
+                "file_path": "results\\Test_05\\Jet\\Jet-9999968.nn",
+                "reward": -0.05523992578188578,
+                "creation_time": 1608180756.8531692
+            },
+            {
+                "steps": 10000608,
+                "file_path": "results\\Test_05\\Jet\\Jet-10000608.nn",
+                "reward": -0.05523992578188578,
+                "creation_time": 1608180757.3635454
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000608,
+            "file_path": "results\\Test_05\\Jet.nn",
+            "reward": -0.05523992578188578,
+            "creation_time": 1608180757.3635454
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

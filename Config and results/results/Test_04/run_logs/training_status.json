@@ -1,0 +1,23 @@
+{
+    "Jet": {
+        "checkpoints": [
+            {
+                "steps": 3768004,
+                "file_path": "results\\Test_04\\Jet\\Jet-3768004.nn",
+                "reward": 0.4381231814622879,
+                "creation_time": 1608151281.0105448
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3768004,
+            "file_path": "results\\Test_04\\Jet.nn",
+            "reward": 0.4381231814622879,
+            "creation_time": 1608151281.0105448
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

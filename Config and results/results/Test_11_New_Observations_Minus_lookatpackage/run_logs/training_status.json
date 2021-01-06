@@ -1,0 +1,47 @@
+{
+    "Jet": {
+        "checkpoints": [
+            {
+                "steps": 41499972,
+                "file_path": "results\\Test_11_New_Observations_Minus_lookatpackage\\Jet\\Jet-41499972.nn",
+                "reward": -0.8,
+                "creation_time": 1609418828.4627671
+            },
+            {
+                "steps": 41999969,
+                "file_path": "results\\Test_11_New_Observations_Minus_lookatpackage\\Jet\\Jet-41999969.nn",
+                "reward": -0.75,
+                "creation_time": 1609419507.1819375
+            },
+            {
+                "steps": 42499948,
+                "file_path": "results\\Test_11_New_Observations_Minus_lookatpackage\\Jet\\Jet-42499948.nn",
+                "reward": -0.7142857142857143,
+                "creation_time": 1609420182.8940184
+            },
+            {
+                "steps": 42999979,
+                "file_path": "results\\Test_11_New_Observations_Minus_lookatpackage\\Jet\\Jet-42999979.nn",
+                "reward": -0.5714285714285714,
+                "creation_time": 1609420860.5685675
+            },
+            {
+                "steps": 43266465,
+                "file_path": "results\\Test_11_New_Observations_Minus_lookatpackage\\Jet\\Jet-43266465.nn",
+                "reward": -1.0,
+                "creation_time": 1609421227.2116284
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 43266465,
+            "file_path": "results\\Test_11_New_Observations_Minus_lookatpackage\\Jet.nn",
+            "reward": -1.0,
+            "creation_time": 1609421227.2116284
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.1"
+    }
+}

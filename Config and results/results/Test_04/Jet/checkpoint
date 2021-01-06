@@ -1,0 +1,2 @@
+model_checkpoint_path: "Jet-3768004.ckpt"
+all_model_checkpoint_paths: "Jet-3768004.ckpt"
