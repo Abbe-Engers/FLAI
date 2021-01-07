@@ -1,4 +1,4 @@
-# FLAI
+# FLAI - A Flying AI
 
 FLAI is an Unity ml-agents based AI. It's an airplane jet that learns how to collide with packages in the sky.
 
