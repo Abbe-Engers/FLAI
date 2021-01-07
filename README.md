@@ -1,27 +1,36 @@
-# Project Title
+# FLAI
 
-One Paragraph of project description goes here
+FLAI is an Unity ml-agents based AI. It's an airplane jet that learns how to collide with packages in the sky.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These are the instructions on setting up ml-agents to train the agent.
 
-### Prerequisites
+### Preperation
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+The only thing you have to install is the ml-agents python package, do this in anaconda envirement.
 
 ```
-Give the example
+pip install ml-agents
+```
+
+### Installing en Setting Up.
+
+A step by step guide on how to open the and use the unity project.
+
+#### Installing
+First you need to the download the whole repository and save it to a folder.
+
+```
+Click on the Green button that says: "↓ Code", then click on download ZIP
+```
+
+#### Setting Up
+After the download is completed. 
+
+```
+Firest unpack the zip then move the folder from the downloads folder to a place you like.
+(I would suggest a place close or in your mother directory: "C:" so it's easily moving to from your command prompt)
 ```
 
 And repeat
