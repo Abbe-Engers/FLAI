@@ -6,14 +6,6 @@ FLAI is an Unity ml-agents based AI. It's an airplane jet that learns how to col
 
 These are the instructions on setting up ml-agents to train the agent.
 
-### Preperation
-
-The only thing you have to install is the ml-agents python package, do this in anaconda envirement.
-
-```
-pip install ml-agents
-```
-
 ### Installing en Setting Up.
 
 A step by step guide on how to open and use the Unity Project.
