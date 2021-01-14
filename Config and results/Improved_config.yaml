@@ -23,7 +23,7 @@ behaviors:
             gail:
                 gamma: 0.99
                 strength: 1.0
-                demo_path: C:\Users\aenge\FLAI - Improved\Assets\Demonstrations\JetFlyDemoV3.demo
+                demo_path: C:\FLAI-main\Unity Project\Assets\Demonstrations\JetFlyDemoV3.demo
             extrinsic:
                 gamma: 0.99
                 strength: 1.0
